@@ -26,7 +26,7 @@ gem 'coffee-rails', '~> 4.2'
 gem 'turbolinks', '~> 5'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'cloudinary', '~> 1.9.1'
-gem 'carrierwave', '~> 1.2'
+gem 'carrierwave', '~> 1.3'
 gem 'dotenv-rails', groups: [:development, :test]
 # gem 'jbuilder', '~> 2.5'
 # Use Redis adapter to run Action Cable in production
